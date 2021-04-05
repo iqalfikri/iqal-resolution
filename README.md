@@ -1,2 +1,2 @@
 # iqal-resolution
-Reposityory for this year
+Repository for this year
