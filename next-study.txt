@@ -1,0 +1,6 @@
+Study options
+- Bikin web online shop ci
+- Belajar laravel
+- Belajar Vue js
+- Lanjut Bwa programming
+
