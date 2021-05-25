@@ -1,6 +1,9 @@
 Study options
 - Bikin web online shop ci
+  *bulan 6 harus sudah selesai
+  *kalau bisa update ke ci 4
 - Belajar laravel
 - Belajar Vue js
 - Lanjut Bwa programming
+  *min 2 project bwa kelar
 
