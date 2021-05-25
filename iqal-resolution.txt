@@ -1,2 +1,3 @@
 Iqal Resolution
--Konsisten ngoding
+- Konsisten ngoding
+- Bikin produk
