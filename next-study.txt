@@ -1,6 +1,11 @@
 Study options
 - Bikin web online shop ci
+  *sebelum bulan 6 harus sudah mulai
 - Belajar laravel
+  *semester 3 kuliah harus sudah mulai
 - Belajar Vue js
+  *max tahun depan sudah mulai
 - Lanjut Bwa programming
+  *min 1 project bwa kelar
+- Explore data structure
 
