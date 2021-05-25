@@ -1,0 +1,4 @@
+Study options
+- Bikin web online shop
+- Belajar laravel
+- Belajar Vue js
