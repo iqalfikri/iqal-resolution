@@ -9,4 +9,5 @@ Study options
 - Lanjut Bwa programming
   *min 1 project bwa kelar
 - Explore data structure
+  * ditahun ini sudah bisa paham flow dari database
 
