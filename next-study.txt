@@ -4,6 +4,7 @@ Study options
   *kalau bisa di update ke ci 4
 - Belajar laravel
   *semester 3 kuliah harus sudah mulai
+  *mulai dari laravel 6 
 - Belajar Vue js
   *max tahun depan sudah mulai
 - Lanjut Bwa programming
